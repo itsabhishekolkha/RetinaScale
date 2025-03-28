@@ -4,13 +4,12 @@
 <h2>RetinaScale</h2>
 <p>Custom HiDPI Resolutions, Refresh Rate & Color Depth Control, EDID Overrides, HiDPI Mode Activation, macOS Default Reset, All Displays Info and More!</p>
 <a href="#"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/>
-<sub><b>The <a href="#">latest app version</a> requires macOS BigSur or later.<br>
+<sub><b>The latest app version requires macOS BigSur or later.<br>
 </div>
 
 <br />
 
 <div align="center">
-<a href="https://github.com/itsabhishekolkha/RetinaScale/releases/download/v1.0.0/RetinaScale-1.0.0.dmg"><img src="https://img.shields.io/github/downloads/itsabhishekolkha/RetinaScaleGUI/total.svg?style=flat&color=blue" alt="downloads"/></a>
 <a href="https://github.com/itsabhishekolkha/RetinaScale/releases"><img src="https://img.shields.io/github/release/itsabhishekolkha/RetinaScale.svg?style=flat&color=blue&include_prereleases" alt="latest version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat&color=blue" alt="platform"/></a>
 </div>
