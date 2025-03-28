@@ -108,10 +108,11 @@ RetinaScale is a simple, clutter-free app designed to make HiDPI display tweaks 
 - Reset to Defaults: “Wipe all display settings from any app and reset to macOS defaults”.
 - Ease of Selection: “Pick custom HiDPI resolutions with refresh rate and color depth, made easy for every option” emphasizes user-friendly choices.  
 
----
----
 
 ## 📩 Support
+
+- If you find *RetinaScale* useful, consider **giving** it **a star** to make it more visible.
+- If you find my work useful, please consider Give me a **Star** and follow me on **GitHub**:heart:
 
 Got questions, issues, or ideas bout what we can impliment? Want to help RetinaScale grow? Here’s how to connect:
 
