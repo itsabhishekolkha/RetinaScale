@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-<a href="https://github.com/itsabhishekolkha/RetinaScale/releases"><img src="https://img.shields.io/github/release/itsabhishekolkha/RetinaScale.svg?style=flat&color=blue&include_prereleases" alt="latest version"/></a>
+<a href="https://github.com/itsabhishekolkha/RetinaScale/releases/download/v1.0.0/RetinaScale-1.0.0.dmg"><img src="https://img.shields.io/github/release/itsabhishekolkha/RetinaScale.svg?style=flat&color=blue&include_prereleases" alt="latest version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat&color=blue" alt="platform"/></a>
 </div>
 🔴 Special Note: Currently supports Intel-based Macs only. Apple Silicon support is in the works—coming in the next month!
