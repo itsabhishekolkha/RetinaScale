@@ -1,87 +1,100 @@
 <div align="center">
-<a href="#"><img src="https://github.com/user-attachments/assets/6924d617-6814-4b1e-aad3-15c0687b8abb" width="200" alt="RetinaScale" align="center"/></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/6924d617-6814-4b1e-aad3-15c0687b8abb" width="200" alt="RetinaScale" align="center"/></a>
 
-<h2>RetinaScale</h2>
-<p>Custom HiDPI Resolutions, Refresh Rate & Color Depth Control, EDID Overrides, HiDPI Mode Activation, macOS Default Reset, All Displays Info and More!</p>
-<a href="https://github.com/itsabhishekolkha/RetinaScale/releases/download/v1.0.0/RetinaScale-1.0.0.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/>
-<sub><b>The latest app version requires macOS BigSur or later.<br>
+  # RetinaScale
+
+  Custom HiDPI Resolutions, Refresh Rate & Color Depth Control, EDID Overrides, HiDPI Mode Activation, macOS Default Reset, All Displays Info and More!
+
+  <a href="https://github.com/itsabhishekolkha/RetinaScale/releases/download/v2.0.0/RetinaScale.2.0.0.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/>
+  <sub><b>The latest app version requires macOS 13.0 (Vantura) or later.</b></sub>
 </div>
 
 <br />
 
 <div align="center">
-<a href="https://github.com/itsabhishekolkha/RetinaScale/releases"><img src="https://img.shields.io/github/release/itsabhishekolkha/RetinaScale.svg?style=flat&color=blue&include_prereleases" alt="latest version"/></a>
-<a href="#"><img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat&color=blue" alt="platform"/></a>
+  <a href="https://github.com/itsabhishekolkha/RetinaScale/releases"><img src="https://img.shields.io/github/release/itsabhishekolkha/RetinaScale.svg?style=flat&color=blue&include_prereleases" alt="latest version"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg?style=flat&color=blue" alt="platform"/></a>
 </div>
-🔴 Special Note: Currently supports Intel-based Macs only. Apple Silicon support is in the works—coming in the next month!
+
+🔴 **Special Note**: Now supports both Intel-based Macs and Apple Silicon (M1/M2/M3) with native performance optimizations! keep in mind that some features might not work in mac silicon.
 
 ## Usage
 
-RetinaScale transforms display management into a breeze. Let's explore its features:
+RetinaScale transforms display management into a breeze. Let’s explore its features:
 
-**🖥️ Display Tab**  
-_Tweak your screen settings effortlessly_  
+### 🖥️ Display Tab  
+*Tweak your screen settings effortlessly*  
 - `1.` Click **"Fetch Displays"** to see all connected screens.  
 - `2.` Pick a display from the sleek dropdown.  
 - `3.` Select resolution, refresh rate, and color depth.  
-- `4.` Tap **"Apply Settings"** for instant magic.
+- `4.` Tap **"Apply Settings"** for instant magic.  
 <div align="center">
-<a herf="#"><img width="500" alt="Display UI" src="https://github.com/user-attachments/assets/620cfa80-595f-4cc9-9b8e-b6bd8a512f63" />
- 
+  <a href="#"><img width="500" alt="Display UI" src="https://github.com/user-attachments/assets/1a6d30db-c9a8-4506-ab68-fc00f8a22683" />
 </div>
 
-**🖥️ Custom Resolutions Tab**  
-_Craft your perfect display profile_  
+### 🖥️ Custom Resolutions Tab  
+*Craft your perfect display profile*  
 - `1.` Hit **"Fetch"** to detect your displays.  
 - `2.` Choose a display, type resolutions (e.g., `1920x1080, 1600x900`).  
 - `3.` Toggle **"Include EDID"** or **"Enable HiDPI Mode"** for flair.  
-- `4.` Click **"Save Custom Resolutions"** (restart Required).  
-- `5.` Use **"Reset macOS Default"** to start fresh (restart required).
+- `4.` Click **"Save Custom Resolutions"** (restart required).  
+- `5.` Use **"Reset macOS Default"** to start fresh (restart required).  
 <div align="center">
-<a herf="#"><img width="500" alt="Screenshot 2025-03-28 at 15 28 23" src="https://github.com/user-attachments/assets/800850f7-4a28-41db-812a-68003f03d67d" />
-
+  <a href="#"><img width="500" alt="Screenshot 2025-03-28 at 15 28 23" src="https://github.com/user-attachments/assets/3551c1fc-a36c-480f-9230-f9e5f5e2aa28" />
 </div>
 
-**🔍 Graphics Tab**  
-_Dive into your display’s soul_  
+
+### 🔍 Graphics Tab  
+*Dive into your display’s soul*  
 - `1.` Press **"Fetch Display Info"** to load the details.  
 - `2.` Select a display for resolution, EDID, Vendor ID, and more.  
 <div align="center">
- <a herf="#"><img width="901" alt="Graphics UI" src="https://github.com/user-attachments/assets/cbb51be7-df3c-4a89-8d5b-54aebc7aee61" />
- 
- </div>
+  <a href="#"><img width="901" alt="Graphics UI" src="https://github.com/user-attachments/assets/2109fd62-6f9b-4a9c-8ae9-ae43f0ddf602" />
+</div>
+
+
+
+### ☕ Menubar & Keep My Mac Awake  
+*Control sleep settings from the menubar*  
+- `1.` Launch RetinaScale to see the coffee cup icon in the menubar.  
+- `2.` Click the icon to open the "Keep Mac Awake" menu.  
+- `3.` Choose **"Until Disabled"** to prevent sleep indefinitely.  
+- `4.` Select a timed option (e.g., 15m, 1h, 6h) from "For Minutes" or "For Hours" submenus.  
+- `5.` Watch the countdown timer in the menubar when active; click **"Disable Now"** to stop early.  
+- *Note*: The icon changes to a filled coffee cup when active, with a timer display during countdowns.  
+<div align="center">
+  <a href="#"><img width="300" alt="Keep Mac Awake Menubar" src="https://github.com/user-attachments/assets/baec1d52-14e1-4f68-8db5-04af5ead6ec2" />
+</div>
+
+### 🖥️ Menubar: Display Controls  
+*Quickly adjust display settings from the menubar*  
+- `1.` Look for the display icon in the menubar (e.g., "Display 1").
+-  - Select **Resolution**, **Refresh Rate**, or **Color Depth** from submenus.  
+- `2.` Click to access brightness, RGB adjustments, and more:  
+  - Adjust **Brightness** with the slider (affects built-in displays).  
+  - Fine-tune **Red**, **Green**, and **Blue** values for color balance.  
+  - Scroll for **Night Shift** on or off.  
+  - Enable **Force Full RGB** for vibrant colors.   
+<div align="center">
+  <a href="#"><img width="300" alt="Display Controls Menubar" src="https://github.com/user-attachments/assets/71508c61-18d1-4cc4-905d-d4cbd6ea3c17" />
+</div>
+
+
 
 ---
-##  Installation
+## Installation
 
 Get RetinaScale up and running in a flash—here’s how:
 
-**Step 1: Download the App**  
+### Step 1: Download the App  
 - `1.` Grab the `.dmg` from the [Download for macOS](#) link above.  
-- `2.` Then drag `RetinaScale.app` to Applications.
+- `2.` Drag `RetinaScale.app` to Applications.
 
-**Step 2: Install Homebrew (If Needed)**  
-- `1.` Open Terminal and check if Homebrew is installed:  
-   ```bash
-   brew --version
-- `2.` If not open Terminal and paste the code below:  
-   ```bash
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   
- **Step 3: Install Displayplacer (If Needed)**
-- `1.` Open Terminal and check if Displayplacer is installed:  
-   ```bash
-   displayplacer --version
-- `2.` If not open Terminal and paste the code below:  
-   ```bash
-    brew install displayplacer
-
- ---
- **Step 4: Launch The App**
+ **Step 2: Launch The App**
  1. Open RetinaScale.app.
 
   Note: Since this app is locally signed (no Apple Developer certificate yet), macOS might say it’s “damaged” and refuse to open. Right-click the 
-      app and select “Open.” If no “Open” option appears, follow the steps in  included with the download. A proper certificate is planned for the future!
+      app and open. A proper certificate is planned for the future!
 
   ---
 
@@ -107,7 +120,7 @@ RetinaScale is a simple, clutter-free app designed to make HiDPI display tweaks 
 - Show detailed graphics info for all connected displays.
 - Reset to Defaults: “Wipe all display settings from any app and reset to macOS defaults”.
 - Ease of Selection: “Pick custom HiDPI resolutions with refresh rate and color depth, made easy for every option” emphasizes user-friendly choices.  
-
+-Keep Mac Awake
 
 ## 📩 Support
 
